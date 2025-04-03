@@ -7,15 +7,15 @@ const products = [
     },
     {
         "id": 2,
-        "name": "Sản phẩm 2",
-        "description": "Mô tả chi tiết của sản phẩm 2.",
-        "price": "200,000 VND"
+        "name": "Iphone 16 Plus",
+        "description": "Hệ điều hành: IOS 18; RAM: 8GB; Dung lượng: 128GB",
+        "price": "22.690.000 VND"
     },
     {
         "id": 3,
-        "name": "Sản phẩm 3",
-        "description": "Mô tả chi tiết của sản phẩm 3.",
-        "price": "300,000 VND"
+        "name": "Iphone 16",
+        "description": "Hệ điều hành: IOS 18; RAM: 8GB; Dung lượng: 128GB",
+        "price": "19.290.000 VND"
     }
 ];
 
